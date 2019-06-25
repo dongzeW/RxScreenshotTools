@@ -1,0 +1,2 @@
+# RxScreenshotTools
+根据android里的ContentObserver特性实现监听屏幕截屏
